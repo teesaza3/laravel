@@ -56,12 +56,7 @@
                 <div class="row" style="padding-left: 3rem;">
 
 
-                    <div class="card" style="width: 18rem;">
-                        <img src="{{ url('images/pop_food.jpg') }}" width="400" height="250" class="card-img-top" alt="...">
-                        <div class="card-body text-center">
-                            <p class="card-text">เสต็กหมูพริกไทยดำ</p>
-                        </div>
-                    </div>
+
                     <div class="card" style="width: 18rem;">
                         <img src="{{ url('images/pop_food2.png') }}" width="400" height="250" class="card-img-top" alt="...">
                         <div class="card-body text-center">
@@ -72,6 +67,12 @@
                         <img src="{{ url('images/pop_food3.jpg') }}" width="400" height="250" class="card-img-top" alt="...">
                         <div class="card-body text-center">
                             <p class="card-text">เสต็กปลาครีมซอส</p>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 18rem;">
+                        <img src="{{ url('images/hint.png') }}" width="400" height="250" class="card-img-top" alt="...">
+                        <div class="card-body text-center">
+                        <a type="button" href="{{ url('/food1/') }}" class="btn btn-primary">อาหารจานเด็ด</a>
                         </div>
                     </div>
                 </div>

@@ -34,8 +34,8 @@
                 <div class="card" style="width: 18rem;">
                     <img src="{{ url('images/shinkanzen.jpg') }}" width="200" height="300" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <p class="card-text">Shinkansen sushi</p>
-                        <a href="{{ url('/shinkansen/') }}" class="stretched-link"></a>
+                        <p class="card-text">Shinkanzen Sushi</p>
+                        <a href="{{ url('/shinkanzen/') }}" class="stretched-link"></a>
 
                     </div>
                 </div>

@@ -9,8 +9,6 @@
     <link rel="stylesheet" href="{{ url('css/bootstrap.css') }}">
     <script src="https://kit.fontawesome.com/56e49317d8.js" crossorigin="anonymous"></script>
 
-
-
     @yield('style')
 
 </head>
